@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanas-vaiciulis) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10183128) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 Frontend <br/>
 [![css](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -58,6 +58,23 @@ Other
 [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/product/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=av3000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=av3000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Portfolio projects
+
+### [Carplates App](https://github.com/av3000/carplates-nx/)
+
+Car plate number CRUD application: <br/>
+`Nrwl/NX workspace`, `Angular`, `RxJS`, `NgRx`, `Express.js`, `MySQL`, `Swagger`, `Sentry`, `Sequelize ORM`, `Cypress E2E`, `Jest unit testing`, `Tailwind CSS`, `Docker setup`, `Git hooks / Husky`.
+
+### [Fitness and Nutrition App](https://github.com/av3000/fitness-and-nutrition-manager) - Live at firebase [here](https://fitness-app-dd09c.firebaseapp.com)
+
+Health app for meal, workout, and schedule management: <br/>
+`Angular`, `Firebase` for real-time NoSQL database, and authentication, `Docker`, `RxJs`, `Webpack`.
+
+### [Discord clone](https://github.com/av3000/discord-clone) - Live at railway [here](https://discord-clone-production-80db.up.railway.app/)
+Discord clone app with minimal main features: <br/>
+`React`, `Next.js`, `Clerk`, `Zustand`, `Uploadthing` for images storage, `Radix-ui` for quick `Shadcn` UI components, `Tailwind CSS`, `livekit` for streaming feature with `sockets`, `emoji-mart`, `Prisma`.
+
+### [Japanese learning environment](https://github.com/av3000/japanese-vma)
+
+Japanese learning environment app: <br/>
+`React`, `Laravel`, `MySQL`, `Bootstrap`, `Redux`, `Passport`, `Japanese data http://www.edrdg.org/`
