@@ -80,7 +80,7 @@ Discord clone app with minimal main features: <br/>
 
 ![discord-clone-demo-1](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-create-edit-server.gif)
 ![discord-clone-demo-2](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-search-invite-attachment.gif)
-![discord-clone-demo-3](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-search-invite-attachment.gif)
+![discord-clone-demo-3](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-change-theme.gif)
 
 ### [Japanese learning environment](https://github.com/av3000/japanese-vma)
 
