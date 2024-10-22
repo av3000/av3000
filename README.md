@@ -65,14 +65,22 @@ Other
 Car plate number CRUD application: <br/>
 `Nrwl/NX workspace`, `Angular`, `RxJS`, `NgRx`, `Express.js`, `MySQL`, `Swagger`, `Sentry`, `Sequelize ORM`, `Cypress E2E`, `Jest unit testing`, `Tailwind CSS`, `Docker setup`, `Git hooks / Husky`.
 
+![carplates-app-demo](https://github.com/av3000/carplates-nx/blob/main/docs/assets/images/carplate-demo.gif)
+
 ### [Fitness and Nutrition App](https://github.com/av3000/fitness-and-nutrition-manager) - Live at firebase [here](https://fitness-app-dd09c.firebaseapp.com)
 
 Health app for meal, workout, and schedule management: <br/>
 `Angular`, `Firebase` for real-time NoSQL database, and authentication, `Docker`, `RxJs`, `Webpack`.
 
+![Fitness-app-demo](https://github.com/av3000/fitness-and-nutrition-manager/blob/main/docs/assets/images/fitness-demo.gif)
+
 ### [Discord clone](https://github.com/av3000/discord-clone) - Live at railway [here](https://discord-clone-production-80db.up.railway.app/)
 Discord clone app with minimal main features: <br/>
-`React`, `Next.js`, `Clerk`, `Zustand`, `Uploadthing` for images storage, `Radix-ui` for quick `Shadcn` UI components, `Tailwind CSS`, `livekit` for streaming feature with `sockets`, `emoji-mart`, `Prisma`.
+`React`, `Next.js`, `Clerk`, `Zustand`, `Uploadthing` for images storage, `Radix-ui` for quick `Shadcn` UI components, `Tailwind CSS`, `Livekit` for streaming feature, `sockets`, `emoji-mart`, `Prisma`.
+
+![discord-clone-demo-1](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-create-edit-server.gif)
+![discord-clone-demo-2](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-search-invite-attachment.gif)
+![discord-clone-demo-3](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-search-invite-attachment.gif)
 
 ### [Japanese learning environment](https://github.com/av3000/japanese-vma)
 
