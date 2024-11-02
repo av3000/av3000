@@ -67,6 +67,14 @@ Car plate number CRUD application: <br/>
 
 ![carplates-app-demo](https://github.com/av3000/carplates-nx/blob/main/docs/assets/images/carplate-demo.gif)
 
+### [Japanese learning environment](https://github.com/av3000/japanese-vma)
+
+Japanese learning environment app: <br/>
+`React`, `Laravel`, `MySQL`, `Bootstrap`, `Redux`, `Passport`, `Japanese data http://www.edrdg.org/`
+
+![jpl-demo-1](https://github.com/av3000/japanese-vma/blob/docs/update-documentation/docs/assets/images/jpl-short-1.gif)
+![jpl-demo-2](https://github.com/av3000/japanese-vma/blob/docs/update-documentation/docs/assets/images/jpl-short-2.gif)
+
 ### [Fitness and Nutrition App](https://github.com/av3000/fitness-and-nutrition-manager) - Live at firebase [here](https://fitness-app-dd09c.firebaseapp.com)
 
 Health app for meal, workout, and schedule management: <br/>
@@ -81,8 +89,3 @@ Discord clone app with minimal main features: <br/>
 ![discord-clone-demo-1](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-create-edit-server.gif)
 ![discord-clone-demo-2](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-search-invite-attachment.gif)
 ![discord-clone-demo-3](https://github.com/av3000/discord-clone/blob/main/docs/assets/images/dc-clone-change-theme.gif)
-
-### [Japanese learning environment](https://github.com/av3000/japanese-vma)
-
-Japanese learning environment app: <br/>
-`React`, `Laravel`, `MySQL`, `Bootstrap`, `Redux`, `Passport`, `Japanese data http://www.edrdg.org/`
