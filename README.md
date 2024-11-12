@@ -1,7 +1,7 @@
 # 💫 Your friendly neighbourhood frontender!
 💻 Frontend engineer with ~4 years of experience<br>🏛️ Bachelor in Computer Science at Vilnius Business College.<br>
 🛠️ Experienced working with Angular and Node.js (but not discriminating React or Next.js stack, very open to tinkering and experimenting).<br>
-🔭 Actively exploring the latest technologies to become a senior I wish I had in the beginning.
+🔭 Actively exploring the latest frontend technologies and system architectures to be a senior I wish I had.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanas-vaiciulis) 
