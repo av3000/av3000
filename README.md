@@ -1,6 +1,6 @@
 # 💫 Your friendly neighbourhood frontender!
 💻 Frontend engineer with ~4 years of experience<br>🏛️ Bachelor in Computer Science at Vilnius Business College.<br>
-🛠️ Experienced working with Angular and Node.js (but not discriminating React or Next.js stack, very open to tinkering and experimenting).<br>
+🛠️ Experienced working with Angular and Node.js, currently working with React and exploring Next.js <br>
 🔭 Actively exploring the latest frontend technologies and system architectures to be a senior I wish I had.
 
 ## 🌐 Socials:
