@@ -1,7 +1,7 @@
 # 💫 Your friendly neighbourhood frontender!
-💻 Frontend engineer with ~4 years of experience<br>🏛️ Bachelor in Computer Science at Vilnius Business College.<br>
-🛠️ Experienced working with Angular and Node.js, currently working with React and exploring Next.js <br>
-🔭 Actively exploring the latest frontend technologies and system architectures to be a senior I wish I had.
+💻 Frontend engineer with 5+ years of experience<br>🏛️ Bachelor in Computer Science at Vilnius Business College.<br>
+🛠️ Working with React and exploring Next.js. Experienced working with Angular and Node.js <br>
+🔭 Actively exploring the latest frontend technologies and systems architecture to be a senior I wish I had.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanas-vaiciulis) 
@@ -60,20 +60,20 @@ Other
 
 ## Portfolio projects
 
+### [Japanese learning environment](https://github.com/av3000/japanese-vma)
+
+Japanese learning environment app: <br/>
+`React`, `Laravel`, `MySQL`, `SCSS modules`, `Tailwind`, `Bootstrap`, `Tanstack Query`, `Zustand`, `Redux`, `Passport`, `Japanese data http://www.edrdg.org/`
+
+![jpl-demo-1](https://github.com/av3000/japanese-vma/blob/docs/update-documentation/docs/assets/images/jpl-short-1.gif)
+![jpl-demo-2](https://github.com/av3000/japanese-vma/blob/docs/update-documentation/docs/assets/images/jpl-short-2.gif)
+
 ### [Carplates App](https://github.com/av3000/carplates-nx/)
 
 Car plate number CRUD application: <br/>
 `Nrwl/NX workspace`, `Angular`, `RxJS`, `NgRx`, `Express.js`, `MySQL`, `Swagger`, `Sentry`, `Sequelize ORM`, `Cypress E2E`, `Jest unit testing`, `Tailwind CSS`, `Docker setup`, `Git hooks / Husky`.
 
 ![carplates-app-demo](https://github.com/av3000/carplates-nx/blob/main/docs/assets/images/carplate-demo.gif)
-
-### [Japanese learning environment](https://github.com/av3000/japanese-vma)
-
-Japanese learning environment app: <br/>
-`React`, `Laravel`, `MySQL`, `Bootstrap`, `Redux`, `Passport`, `Japanese data http://www.edrdg.org/`
-
-![jpl-demo-1](https://github.com/av3000/japanese-vma/blob/docs/update-documentation/docs/assets/images/jpl-short-1.gif)
-![jpl-demo-2](https://github.com/av3000/japanese-vma/blob/docs/update-documentation/docs/assets/images/jpl-short-2.gif)
 
 ### [Fitness and Nutrition App](https://github.com/av3000/fitness-and-nutrition-manager) - Live at firebase [here](https://fitness-app-dd09c.firebaseapp.com)
 
