@@ -1,6 +1,6 @@
 # 💫 Your friendly neighbourhood frontender!
 💻 Frontend engineer with 5+ years of experience<br>🏛️ Bachelor in Computer Science at Vilnius Business College.<br>
-🛠️ Working with React and exploring Next.js. Experienced working with Angular and Node.js <br>
+🛠️ Currently working with React, C# .NET, and exploring Next.js. Experienced working with Angular and Node.js/Express.js <br>
 🔭 Actively exploring the latest frontend technologies and systems architecture to be a senior I wish I had.
 
 ## 🌐 Socials:
@@ -63,7 +63,7 @@ Other
 ### [Japanese learning environment](https://github.com/av3000/japanese-vma)
 
 Japanese learning environment app: <br/>
-`React`, `Laravel`, `MySQL`, `SCSS modules`, `Tailwind`, `Bootstrap`, `Tanstack Query`, `Zustand`, `Redux`, `Passport`, `Japanese data http://www.edrdg.org/`
+`React`, `Laravel`, `MySQL`, `Orval API client`, `SCSS modules`, `Tailwind`, `Bootstrap`, `Tanstack Query`, `Zustand`, `Redux`, `Passport`, `Japanese data http://www.edrdg.org/`
 
 ![jpl-demo-1](https://github.com/av3000/japanese-vma/blob/docs/update-documentation/docs/assets/images/jpl-short-1.gif)
 ![jpl-demo-2](https://github.com/av3000/japanese-vma/blob/docs/update-documentation/docs/assets/images/jpl-short-2.gif)
